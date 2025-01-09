@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Random\\DVMods\\ExternalCamera\\ExternalCamera.csproj": {}
+  },
+  "projects": {
+    "C:\\Random\\DVMods\\ExternalCamera\\ExternalCamera.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Random\\DVMods\\ExternalCamera\\ExternalCamera.csproj",
+        "projectName": "ExternalCamera",
+        "projectPath": "C:\\Random\\DVMods\\ExternalCamera\\ExternalCamera.csproj",
+        "packagesPath": "C:\\Users\\tha_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Random\\DVMods\\ExternalCamera\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Random\\DVMods\\ExternalCamera\\NuGet.Config",
+          "C:\\Users\\tha_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packages.unity.com": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "RedworkDE.Publicizer": {
+              "target": "Package",
+              "version": "[0.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

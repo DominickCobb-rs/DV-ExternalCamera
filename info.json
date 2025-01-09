@@ -1,0 +1,12 @@
+{
+  "Id": "ExternalCamera",
+  "DisplayName": "External Cameras",
+  "Author": "Cinderblock",
+  "Version": "0.1.0",
+  "AssemblyName": "ExternalCamera.dll",
+  "EntryMethod": "DvMod.CustomCamera.Main.OnLoad",
+  "Requirements": [
+    "CommsRadioAPI"
+  ],
+  "ManagerVersion": "0.27.3"
+}
